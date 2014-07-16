@@ -1,0 +1,6 @@
+cmd=mpirun -np 16 -machinefile /home/bmifflet/cs4379/project1/machinefile.1519986 /home/bmifflet/cs4379/project1/proj1
+Elapsed time is 0.243832
+cmd=mpirun -np 16 -machinefile /home/bmifflet/cs4379/project1/machinefile.1520015 /home/bmifflet/cs4379/project1/proj1
+Elapsed time is 31.487606
+cmd=mpirun -np 16 -machinefile /home/bmifflet/cs4379/project1/machinefile.1520022 /home/bmifflet/cs4379/project1/proj1
+Elapsed time is 31.530095
